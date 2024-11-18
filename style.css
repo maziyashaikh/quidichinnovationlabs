@@ -5756,3 +5756,6 @@ section.mobile-outline {
 
 
 }
+.footer-links-group {
+    display: flex;
+}
