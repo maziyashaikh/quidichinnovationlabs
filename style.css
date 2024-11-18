@@ -2286,7 +2286,7 @@ section.mobile-outline {
 .footersocial-icons ul.social-links li a svg path {
     fill: #9f9f9f;
 }
-@media screen and (min-width: 3546px) and (min-height: 2234px) {
+@media screen and (width: 3546px) and (height: 2234px) {
     * {
             margin: 0;
             padding: 0;
