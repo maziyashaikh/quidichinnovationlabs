@@ -4021,7 +4021,7 @@ section.mobile-outline {
 
 
 }
-@media screen and (min-width: 2880px) and (min-height: 1800px) {
+@media screen and (width: 2880px) and (height: 1800px) {
     * {
             margin: 0;
             padding: 0;
